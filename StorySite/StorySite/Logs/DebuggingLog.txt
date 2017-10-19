@@ -1,0 +1,3 @@
+2017-10-19 08:41:08,832 [8] DEBUG DemoLog [(null)] - Error in HomeController Index File: 
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in D:\Github Project\StorySite\StorySite\StorySite\Controllers\HomeController.cs:line 18
